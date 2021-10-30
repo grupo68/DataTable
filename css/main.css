@@ -1,0 +1,15 @@
+#edad{
+    position: relative;
+    left: 24px;
+    /* top: 20px; */
+}
+
+#btn{
+    position: relative;
+    left: 20px;
+}
+
+#tb{
+    position: relative;
+    top: 30px;
+}
